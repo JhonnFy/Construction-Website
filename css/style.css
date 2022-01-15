@@ -325,7 +325,7 @@ section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
   gap: 2rem;
-  align-items: center; }
+  align-items: flex-end; }
   .about .box-container .box {
     text-align: center;
     background: var(--light-bg);
