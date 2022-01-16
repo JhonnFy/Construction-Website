@@ -15,8 +15,7 @@
   box-sizing: border-box;
   outline: none;
   border: none;
-  text-decoration: none;
-  transition: all 0.2s linear; }
+  text-decoration: none; }
 
 html {
   font-size: 62.5%;
@@ -49,7 +48,8 @@ section {
   color: var(--white);
   cursor: pointer;
   font-size: 1.7rem;
-  text-transform: capitalize; }
+  text-transform: capitalize;
+  transition: .2s linear; }
   .btn:hover {
     background: var(--yellow);
     color: var(--black); }
@@ -356,7 +356,8 @@ section {
         transform: translateY(-1rem); }
       .services .box-container .box img {
         height: 7rem;
-        margin-bottom: 0.5rem; }
+        margin-bottom: 0.5rem;
+        transition: .2s linear; }
       .services .box-container .box h3 {
         font-size: 1.7rem;
         color: var(--black);
@@ -385,7 +386,8 @@ section {
         .projects .box-container .box .image img {
           height: 100%;
           width: 100%;
-          object-fit: cover; }
+          object-fit: cover;
+          transition: .2s linear; }
       .projects .box-container .box .content {
         display: flex;
         background: var(--white);
@@ -485,6 +487,38 @@ section {
           color: var(--light-color);
           line-height: 2; }
 
+.contact {
+  background: var(--black); }
+  .contact .heading {
+    color: var(--white); }
+  .contact .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem; }
+    .contact .row .map {
+      flex: 1 1 41rem;
+      width: 100%; }
+    .contact .row form {
+      flex: 1 1 41rem;
+      background: var(--white);
+      padding: 2rem; }
+      .contact .row form h3 {
+        font-size: 2.5rem;
+        color: var(--black);
+        text-transform: capitalize; }
+      .contact .row form .box {
+        margin: .7rem 0;
+        width: 100%;
+        padding: 1.5rem 0;
+        border-bottom: var(--border);
+        font-size: 1.6rem;
+        color: var(--light-color); }
+        .contact .row form .box:focus {
+          border-color: var(--yellow); }
+      .contact .row form textarea {
+        height: 15rem;
+        resize: none; }
+
 @media (max-width: 1200px) {
   .header {
     padding: 1.5rem 2rem; }
@@ -506,7 +540,8 @@ section {
     background: var(--white);
     border-top: var(--border);
     border-bottom: var(--border);
-    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0); }
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    transition: .2s linear; }
     .header .navbar.active {
       clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); }
     .header .navbar a {
