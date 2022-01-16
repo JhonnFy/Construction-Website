@@ -8,6 +8,8 @@
     <title>Website Construction</title>
     <!--Awesome Link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <!--  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/css/lightgallery.min.css">
     <!--Css Link-->
     <link rel="stylesheet" href="css/style.css">
     <!--Swiperjs Link-->
@@ -15,7 +17,6 @@
 </head>
 
 <body>
-
     <!--Header section Starts-->
     <header class="header">
         <a href="#" class="logo">We<span>Build</span></a>
@@ -126,12 +127,14 @@
                         <a href="#about" class="btn">Get Started</a>
                     </div>
                 </section>
+
             </div>
             <div class="swiper-button-next"></div>
             <div class="swiper-button-prev"></div>
         </div>
     </section>
     <!--Home Section Ends-->
+
 
     <!--Home Section Starts-->
     <section class="about" id="about">
@@ -158,12 +161,10 @@
                 <p>Years Of Experience</p>
             </div>
 
-
             <div class="box">
                 <h3>1500+</h3>
                 <p>Projects Completed</p>
             </div>
-
 
             <div class="box">
                 <h3>800+</h3>
@@ -178,7 +179,6 @@
 
     </section>
     <!--Home Section Ends-->
-
 
 
     <!--Home Section Starts-->
@@ -239,17 +239,107 @@
     <!--Home Section Ends-->
 
 
+    <!--Projects Section Starts-->
+    <section class="projects" id="projects">
+
+        <h1 class="heading">Our Projects</h1>
+        <div class="box-container">
+
+            <a href="img/project-1.jpg" class="box">
+                <div class="image">
+                    <img src="img/project-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="info">
+                        <h3>Dream Home</h3>
+                        <p>Construction, Desing</p>
+                    </div>
+                    <i class="fas fa-plus"></i>
+                </div>
+            </a>
+
+            <a href="img/project-2.jpg" class="box">
+                <div class="image">
+                    <img src="img/project-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="info">
+                        <h3>Dream Home</h3>
+                        <p>Construction, Desing</p>
+                    </div>
+                    <i class="fas fa-plus"></i>
+                </div>
+            </a>
+
+            <a href="img/project-3.jpg" class="box">
+                <div class="image">
+                    <img src="img/project-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="info">
+                        <h3>Dream Home</h3>
+                        <p>Construction, Desing</p>
+                    </div>
+                    <i class="fas fa-plus"></i>
+                </div>
+            </a>
+
+            <a href="img/project-4.jpg" class="box">
+                <div class="image">
+                    <img src="img/project-4.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="info">
+                        <h3>Dream Home</h3>
+                        <p>Construction, Desing</p>
+                    </div>
+                    <i class="fas fa-plus"></i>
+                </div>
+            </a>
+
+            <a href="img/project-5.jpg" class="box">
+                <div class="image">
+                    <img src="img/project-5.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="info">
+                        <h3>Dream Home</h3>
+                        <p>Construction, Desing</p>
+                    </div>
+                    <i class="fas fa-plus"></i>
+                </div>
+            </a>
+
+            <a href="img/project-6.jpg" class="box">
+                <div class="image">
+                    <img src="img/project-6.jpg" alt="">
+                </div>
+                <div class="content">
+                    <div class="info">
+                        <h3>Dream Home</h3>
+                        <p>Construction, Desing</p>
+                    </div>
+                    <i class="fas fa-plus"></i>
+                </div>
+            </a>
+
+        </div>
+    </section>
+    <!--Projects Section Ends-->
 
 
 
 
-
-
-
+    <!--Lightgallery Link-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery-js/1.4.0/js/lightgallery.min.js"></script>
     <!--Swiper Link-->
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
     <!--Js Link-->
     <script src="js/script.js"></script>
+
+    <script>
+        lightGallery(document.querySelector('.projects .box-container'));
+    </script>
 
 </body>
 
