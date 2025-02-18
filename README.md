@@ -29,14 +29,15 @@ To install and run the project locally, follow these steps:
 3. Open `index.html` in your preferred browser to view the website.
 
 ## Gallery
-![image](https://github.com/JhonnFy/Construction-Website/assets/97255802/d8269728-14f4-46ef-891e-63a129816f37)
-![image](https://github.com/JhonnFy/Construction-Website/assets/97255802/4d0f4923-edff-486b-b876-380e77ee1ad1)
-![image](https://github.com/JhonnFy/Construction-Website/assets/97255802/fe3ea6c1-37d0-4ed5-984c-77f359a9681c)
-![image](https://github.com/user-attachments/assets/7a2bd72e-79e9-4c44-a7c5-e9966215cedc)
-![image](https://github.com/user-attachments/assets/d51d1046-0d86-47e8-8252-02f05c31c877)
-![image](https://github.com/user-attachments/assets/d4485fa7-0a57-47d9-ac2f-928c798b21d9)
-![image](https://github.com/user-attachments/assets/39ee7d79-e4f7-406d-89b3-e96689b30aff)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bab6ae91-ec4a-49ef-ad8f-f4c277298870)
+![image](https://github.com/user-attachments/assets/77f1a543-5739-4bc8-9764-6c8f680322be)
+![image](https://github.com/user-attachments/assets/4e12b5f4-fa68-48f0-9e6e-e587e1dfc399)
+![image](https://github.com/user-attachments/assets/e1430fe2-90c4-48a0-9be4-8a198e6859e7)
+![image](https://github.com/user-attachments/assets/5f4bc88e-aecf-4a44-b1c8-ff7a37ea97f4)
+![image](https://github.com/user-attachments/assets/270f704c-3ac4-4863-b181-5d1a3b411b72)
+![image](https://github.com/user-attachments/assets/2d4c7758-83c6-41e8-a98b-aefbfad5baa6)
+![image](https://github.com/user-attachments/assets/89a6082a-7602-4366-b8e7-3f8b33fe93e8)
+![image](https://github.com/user-attachments/assets/a74cb415-1bb5-45dc-bda2-bcff676262cc)
 
 ## Contributions
 Contributions are welcome. If you want to improve any functionality, open an issue or submit a pull request.
