@@ -29,7 +29,7 @@ To install and run the project locally, follow these steps:
 3. Open `index.html` in your preferred browser to view the website.
 
 ## Gallery
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c2e309e9-d541-49ea-a449-e7ca183c3590)
 ![image](https://github.com/user-attachments/assets/77f1a543-5739-4bc8-9764-6c8f680322be)
 ![image](https://github.com/user-attachments/assets/4e12b5f4-fa68-48f0-9e6e-e587e1dfc399)
 ![image](https://github.com/user-attachments/assets/e1430fe2-90c4-48a0-9be4-8a198e6859e7)
