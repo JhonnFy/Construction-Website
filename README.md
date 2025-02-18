@@ -36,7 +36,6 @@ To install and run the project locally, follow these steps:
 ![image](https://github.com/user-attachments/assets/5f4bc88e-aecf-4a44-b1c8-ff7a37ea97f4)
 ![image](https://github.com/user-attachments/assets/270f704c-3ac4-4863-b181-5d1a3b411b72)
 ![image](https://github.com/user-attachments/assets/2d4c7758-83c6-41e8-a98b-aefbfad5baa6)
-![image](https://github.com/user-attachments/assets/89a6082a-7602-4366-b8e7-3f8b33fe93e8)
 ![image](https://github.com/user-attachments/assets/a74cb415-1bb5-45dc-bda2-bcff676262cc)
 
 ## Contributions
